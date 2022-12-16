@@ -54,5 +54,5 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?&style=for-the-badge&logo=Flask)
 ![MYSQL](https://img.shields.io/badge/MYSQL-%2300f.svg?&style=for-the-badge&logo=MYSQL&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=PHPlogoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=PHP&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)

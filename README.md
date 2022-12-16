@@ -40,7 +40,7 @@
 
 
 ### Tools & Technologies
-![HTML](https://img.shields.io/badge/HTML5-000000?&style=for-the-badge&logo=HTML5)
+![HTML](https://img.shields.io/badge/HTML5-000000?&style=for-the-badge&logo=HTML5&logoColor=orange)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?&style=for-the-badge&logo=CSS3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-000000?&style=for-the-badge&logo=javascript&logoColor=white)] 
 ![Python](https://img.shields.io/badge/Python-000000?&style=for-the-badge&logo=Python&logoColor=white)

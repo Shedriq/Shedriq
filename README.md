@@ -40,10 +40,10 @@
 
 
 ### Tools & Technologies
-![HTML](https://img.shields.io/badge/HTML5-000000?&style=for-the-badge&logo=HTML5)
-![CSS3](https://img.shields.io/badge/CSS3-000000?&style=for-the-badge&logo=CSS3)
-![Javascript](https://img.shields.io/badge/Javascript-000000?&style=for-the-badge&logo=javascript) 
-![Python](https://img.shields.io/badge/Python-000000?&style=for-the-badge&logo=Python)
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=CSS3)
+![Javascript](https://img.shields.io/badge/Javascript-%23323330.svg?&style=for-the-badge&logo=javascript) 
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=Python)
 ![C](https://img.shields.io/badge/C-000000?&style=for-the-badge&logo=C)
 ![C++](https://img.shields.io/badge/C++-000000?&style=for-the-badge&logo=C++)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?&style=for-the-badge&logo=Bootstrap)
@@ -53,6 +53,5 @@
 ![Github](https://img.shields.io/badge/Github-000000?&style=for-the-badge&logo=Github)
 ![Linux](https://img.shields.io/badge/Linux-000000?&style=for-the-badge&logo=Linux)
 ![Flask](https://img.shields.io/badge/Flask-000000?&style=for-the-badge&logo=Flask)
-![SQL](https://img.shields.io/badge/SQL-000000?&style=for-the-badge&logo=SQL)
 ![MYSQL](https://img.shields.io/badge/MYSQL-000000?&style=for-the-badge&logo=MYSQL)
 ![PHP](https://img.shields.io/badge/PHP-000000?&style=for-the-badge&logo=PHP)

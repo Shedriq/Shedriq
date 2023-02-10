@@ -16,8 +16,7 @@
 
 ### Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shedriq&theme=monokai)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shedriq&theme=monokai&hide_border=true)](https://git.io/streak-stats)
 
 ### Github Stats
 
